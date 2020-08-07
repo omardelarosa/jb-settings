@@ -24,6 +24,7 @@
     <option name="ignoredPackages">
       <list>
         <option value="pyspark-stubs==3.0.0" />
+        <option value="boto3-stubs==1.14.36.0" />
       </list>
     </option>
   </inspection_tool>
